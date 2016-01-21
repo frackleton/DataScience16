@@ -1,2 +1,2 @@
 # DataScience16
-This is the base repo for the Spring 2016 offering of "Data Science" at Olin College.
+This is Mackenzie Frackleton's repo for the Spring 2016 Data Science class at Olin College
